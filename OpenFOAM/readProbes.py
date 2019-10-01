@@ -14,7 +14,7 @@ import pandas as pd
 
 file='U'
 
-nDim=4
+nDim=3
 nProbes=3
 
 
