@@ -12,10 +12,11 @@ import csv, re, json, math
 import pandas as pd
 
 
-file='U'
+#--- Inputs ----
+file='U' # file name
 
-nDim=3
-nProbes=3
+nDim=3 # 3 dimensional
+nProbes=3 # number of probes (any value)
 
 
 df = pd.read_csv(file, sep=" ", skiprows=nProbes+2, skipinitialspace=True)
