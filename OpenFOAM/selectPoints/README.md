@@ -4,4 +4,5 @@
 3. Remove the probes outside the domain of computation from the input file. See step 1.
 4. Output a file containg only the probes inside the domain of computation.
 
-**Generic probe distribution**
+**Visual description:**
+![test-page-001](https://user-images.githubusercontent.com/36754185/78853334-7cf96180-79d3-11ea-80e8-66fca3439470.jpg)
