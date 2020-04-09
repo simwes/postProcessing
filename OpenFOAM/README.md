@@ -6,6 +6,6 @@ The input parameters are the name of the field 'U' and the number of probes.
 ###### writeProbes.py:
 This writes the list of probes in the system/controlDict file. It skips certain probes if required. It aslo write probes' coordinates in each probe file.
 
-###### readPoints.py:
+###### selectPoints:
 
-Read porbes outside the flow domain listed in the log file. Then it removes them from the original list.
+Read porbes outside the flow domain listed in the log file. Then it removes them from the original list. See README file inside folder.
