@@ -3,3 +3,5 @@
 2. Read coordinates of probes outside the domain of computation from the openFOAM log file, e.g. log.interFoam. 
 3. Remove the probes outside the domain of computation from the input file. See step 1.
 4. Output a file containg only the probes inside the domain of computation.
+
+**Generic probe distribution**
