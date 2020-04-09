@@ -7,5 +7,6 @@
 **Visual description:**
 ![test-page-001](https://user-images.githubusercontent.com/36754185/78853334-7cf96180-79d3-11ea-80e8-66fca3439470.jpg)
 
-**Run example**
-Read generic probes from form 
+**Run example:**
+*python3 readPoints.py*
+Read generic probes from inputProbes.csv; read outside domain points from log.interFoam; output only inside domain probes. 
