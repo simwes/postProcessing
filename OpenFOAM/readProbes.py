@@ -82,11 +82,3 @@ for i in range(0, nTsteps):
 
 print( 'Time to write on file:', time.process_time() - start_time, "seconds" )
 
-
-	for i in range(0,nTsteps):
-		uTot[i,0,n] = float( u[i,0].replace('(', '') )
-		uTot[i,1,n] = float( u[i,1] )
-		uTot[i,2,n] = float( u[i,2].replace(')', '') )
-
-for i in range(0,nTsteps):
-	print( time[i], uTot[i,0,2], uTot[i,1,2], uTot[i,2,2] )
