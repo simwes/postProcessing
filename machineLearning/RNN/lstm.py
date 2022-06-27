@@ -10,7 +10,7 @@ import pandas as pd
 import seaborn as sns
 import tensorflow as tf
 import csv
-# From here: https://www.tensorflow.org/tutorials/structured_data/time_series 
+
 
 #====================================
 # ----------- Input parameters ------
